@@ -1,4 +1,4 @@
-# lift_restart
+# 2 channel SIM800 GSM relay module control application
 
 A new Flutter project.
 
